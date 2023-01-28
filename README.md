@@ -20,10 +20,10 @@ Frontend Mentor Challenge for Creating a QR-Code Component with Responsiveness t
 
 ### Screenshot
 
-##1 Web View
+## 1 Web View
 ![Image Web](images/desktop.PNG)
 
-##2 Mobile View
+## 2 Mobile View
 ![Image Mobile](images/mobile.PNG)
 
 ### Links
